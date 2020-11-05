@@ -33,3 +33,12 @@ To generate the list of categorised glyphs:
 1. The font needs to be loaded in Indesign.
 2. In the specimen template, delete all content in the `Glyphset` text boxes.
 3. From the main menu, go to `File > Place` and choose the exported text file.
+
+### Content sources
+If you are creating specimens in multiple languages, you can use these resources for sourcing content:
+
+1. Rosetta's [Universal Specimen](https://universalspecimen.rosettatype.com)
+The Universal Specimen from Rosetta displays the Universal Declaraiton of Human Rights in multiple panels in 138 languages.
+
+2. Aksharamukha : [Script Converter](http://aksharamukha.appspot.com/texts/triratnanusmriti)
+This is an excellent resource for providing sample text – from old scriptures, or religious text – across many complex scripts and languages (including derivations).
